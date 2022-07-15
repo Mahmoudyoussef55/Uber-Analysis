@@ -1,2 +1,2 @@
 # Uber-Analysis
-EDA Analysis then answering some questions on uber dataset-2016.
+I did some EDA Analysis/feature engineering in order to answer some questions on uber dataset-2016.
